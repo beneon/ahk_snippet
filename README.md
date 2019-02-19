@@ -1,2 +1,3 @@
 # ahk_snippet
-autohotkey code repo
+
+平时用ahk写的一些快捷工具
